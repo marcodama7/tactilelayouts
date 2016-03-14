@@ -1,4 +1,4 @@
-# tactilelayouts
+# Tactilelayouts
 
 Android library that contains viewgroups that manage different gesture.
 
@@ -27,7 +27,7 @@ There are two ways to install this library
 Simply add:
 
 ```groovy
-compile 'com.github.marcodama7.tactilelayouts:tactilelayouts:0.0.1'
+compile 'com.github.marcodama7:tactilelayouts:0.0.1'
 ```
 in the gradle.build file
 
