@@ -3,13 +3,19 @@
 Android library that contains viewgroups that manage different gesture.
 
 ###MovableLayout
+
 Viewgroup that follows the movements of the user's touch
 
+
 ###SwappableLayout 
+
 Viewgroup that allows it to be swapped
 
+
 ###PinchableLayout
+
 Extension of MovableLayout, also allows change dimension with pinch gesture.
+
 
 
 ## Installing
